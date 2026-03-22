@@ -53,7 +53,7 @@ using your disto's package manager. However, at time of writing (April 2025), I
 had to install several dependencies, both via manual download and install, and
 via my package manager.
 
-### pdttotext installation on Ubuntu 22.04.5
+### pdftotext installation on Ubuntu 22.04.5
 
 The instructions below are the steps I had to follow on my WSL (Windows
 Subsystem for Linux) instance running Ubuntu 22.04.5 LTS in order to get
